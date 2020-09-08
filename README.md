@@ -1,9 +1,9 @@
+**Idea Submission - MediFriend \
 
-Idea Submission - MediFriend
-Team Name: CodeChiKame
+Team Name: CodeChiKame \
 Team member’s details: 1. Utkarsh Agnihotri [Developer]
-2. Nitish Awasthi [Developer]
-3. Raaj Anand Chaudhary [Developer]
+                       2. Nitish Awasthi [Developer]
+                       3. Raaj Anand Chaudhary [Developer]
 Selected theme: Smart Medical Assistant
 Problem Statement: Centralized Database for Medical Reports synchronized with
 Unique Identification Number (UID).
