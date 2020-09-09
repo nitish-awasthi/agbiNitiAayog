@@ -12,7 +12,7 @@ Selected theme: Smart Medical Assistant \
 We propose to solve the underrated issues of Indian Citizens in regard to Medical Reports, for e.g.- Carrying multiple medical reports dating years to the Doctor, so as to understand the history of the patient is hectic and difficult to track. \
 A person can easily misplace past reports which can prove to be a deciding factor in mapping out the medical history of the patient. Such as a person might end up with Viral Fever in a particular season, paper reports are easily misplaced, and no pattern can be formed through them. \
 
-**Description of the desired application: 
+**Description of the desired application:**
 
 We plan to build an application that will fetch the Reports of Indian Citizens from a centralized Database using Unique Identification such as AADHAR. Our proposed application will have the reports of every individual, which can be accessed by any Doctor of Indian Medical Association with his Unique registration no. which will act as a Username for the application through which details of each individual can be accessed by entering the Unique Identification Number.
 Currently, there are no such competitors in the market, we propose this as a Unique Start-up Idea to be implemented in Smart Cities first, then expand it to other parts of the Country. \
