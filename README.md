@@ -35,6 +35,5 @@ Tech Stack: For Demo purposes we can implement our solution through a website, u
 - Utkarsh Agnihotri , Nitish Awasthi and Raaj Anand Chaudhary Invertis University, Bareilly
 Reference links:
 ● https://github.com/Zenix27/
-● https://github.com/nitish-awasthi
-● https://www.codechef.com/users/anitish_225 ● https://www.codechef.com/users/agniutkarsh
+● https://github.com/nitish-awasthi ● https://www.codechef.com/users/agniutkarsh
       
