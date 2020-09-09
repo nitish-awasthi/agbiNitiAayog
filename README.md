@@ -1,4 +1,4 @@
-**Idea Submission - MediFriend 
+**Idea Submission - MediFriend**
 
 Team Name: CodeChiKame \
 Team member’s details: 1. Utkarsh Agnihotri [Developer] \
@@ -7,7 +7,7 @@ Team member’s details: 1. Utkarsh Agnihotri [Developer] \
                        
 Selected theme: Smart Medical Assistant \
 
-**Problem Statement: Centralized Database for Medical Reports synchronized with Unique Identification Number (UID). \
+**Problem Statement: Centralized Database for Medical Reports synchronized with Unique Identification Number (UID).** \
 
 We propose to solve the underrated issues of Indian Citizens in regard to Medical Reports, for e.g.- Carrying multiple medical reports dating years to the Doctor, so as to understand the history of the patient is hectic and difficult to track. \
 A person can easily misplace past reports which can prove to be a deciding factor in mapping out the medical history of the patient. Such as a person might end up with Viral Fever in a particular season, paper reports are easily misplaced, and no pattern can be formed through them. \
